@@ -43,6 +43,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 # Ecom-Using-React
 imp command to execute before running 
 install npm -- npm install -g @angular/cli
+
 npm install @reduxjs/toolkit 
+
 npm install react-slick --save
+
 npm install slick-carousel
